@@ -1,0 +1,10 @@
+D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\bin\Debug\BMOisciYonetimSistemi.exe.config
+D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\bin\Debug\BMOisciYonetimSistemi.exe
+D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\bin\Debug\BMOisciYonetimSistemi.pdb
+D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\obj\Debug\BMOisciYonetimSistemi.csprojAssemblyReference.cache
+D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\obj\Debug\BMOisciYonetimSistemi.Form1.resources
+D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\obj\Debug\BMOisciYonetimSistemi.Properties.Resources.resources
+D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\obj\Debug\BMOisciYonetimSistemi.csproj.GenerateResource.cache
+D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\obj\Debug\BMOisciYonetimSistemi.csproj.CoreCompileInputs.cache
+D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\obj\Debug\BMOisciYonetimSistemi.exe
+D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\obj\Debug\BMOisciYonetimSistemi.pdb
