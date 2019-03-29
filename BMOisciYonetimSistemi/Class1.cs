@@ -9,8 +9,7 @@ namespace BMOisciYonetimSistemi
     class Calisan
     {
         private string ID;
-
-        public string Isim;
+        private string ısim;
         private string Soyisim;
         private string Adres;//adres burada yaşadığı ili yazmasına gerek yok
         private double MinMaas;//Olabilecek minimum maaş
@@ -27,10 +26,12 @@ namespace BMOisciYonetimSistemi
         public string Adres1 { get => Adres; set => Adres = value; }
         public double MinMaas1 { get => MinMaas; set => MinMaas = value; }
         public double Maas1 { get => Maas; set => Maas = value; }
+        public string Isim { get => ısim; set => ısim = value; }
 
-        public Calisan(string ıD, string ısim, string soyisim, string adres, double maas)
+        public Calisan(string iD, string isim, string soyisim, string adres, double maas)
         {
-            ID = ıD;
+            ID = iD;
+            //ID1 = ıD;
             Isim = ısim;
             Soyisim1 = soyisim;
             Adres1 = adres;

@@ -33,7 +33,7 @@ namespace BMOisciYonetimSistemi
                 string[] bilgiler = line.Split(',');
                 //lbxIsci.Items.Add(line);
                 lbxIsci.Items.Add(bilgiler[0] +'\t'+ bilgiler[1] + '\t' + bilgiler[2] + '\t' + bilgiler[3] + '\t' + bilgiler[4]);
-                calisanlar.Add(new Calisan(bilgiler[0], bilgiler[1], bilgiler[2], bilgiler[3],Convert.ToDouble(bilgiler[4])));
+                calisanlar.Add(new Calisan(bilgiler[0], bilgiler[1], bilgiler[2], bilgiler[3], Convert.ToDouble(bilgiler[4])));
                 //lbxIsci.Items.Add(bilgiler[0] + '\t' + bilgiler[1] + '\t' + bilgiler[2] + '\t' + bilgiler[3] + '\t' + bilgiler[4]);
 
             }
@@ -52,5 +52,12 @@ namespace BMOisciYonetimSistemi
         {
             
         }
+
+        private void tbMaas_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+   
     }
 }

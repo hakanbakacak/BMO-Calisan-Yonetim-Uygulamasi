@@ -1,4 +1,4 @@
-Id,Name,Surname,address,salary
+Id,Name,Surname,address,0000
 1111,Hakan,Bakacak,Eskiþehir,4500
 2222,Burak,Bakacak,Bilecik,5000
 3333,Yaðýz,Bakacak,Eskiþehir,5000
