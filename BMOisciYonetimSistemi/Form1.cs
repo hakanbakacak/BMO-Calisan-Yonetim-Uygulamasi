@@ -75,7 +75,8 @@ namespace BMOisciYonetimSistemi
             }
             else
             {
-
+                calisanlar.Add(new Calisan("123", tbIsim.Text, tbSoyad.Text, tbAdres.Text,Int32.Parse(tbMaas.Text)));
+                lbxIsci.Items.Add("123" + '\t' + tbIsim.Text + '\t' + tbSoyad.Text + '\t' + tbAdres.Text + '\t' + Int32.Parse(tbMaas.Text));
             }
         }
 

@@ -32,7 +32,7 @@ namespace BMOisciYonetimSistemi
         {
             ID = iD;
             //ID1 = ıD;
-            Isim = ısim;
+            Isim = isim;
             Soyisim1 = soyisim;
             Adres1 = adres;
             Maas1 = maas;
