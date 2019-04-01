@@ -8,3 +8,4 @@ D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonet
 D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\obj\Debug\BMOisciYonetimSistemi.csproj.CoreCompileInputs.cache
 D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\obj\Debug\BMOisciYonetimSistemi.exe
 D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\obj\Debug\BMOisciYonetimSistemi.pdb
+D:\C# Projeleri\OOP-2 Lab\İsciYonetimSistemi\BMOisciYonetimSistemi\BMOisciYonetimSistemi\obj\Debug\BMOisciYonetimSistemi.Form2.resources
